@@ -1,4 +1,5 @@
-/\*\*charAt(index) – Returns the character at the specified index.
+/**
+ * charAt(index) – Returns the character at the specified index.
 charCodeAt(index) – Returns the Unicode of the character at the specified index.
 concat(string1, string2, ...) – Joins two or more strings.
 includes(substring) – Checks if a string contains a specific substring.
@@ -23,5 +24,4 @@ endsWith(substring, length) – Checks if the string ends with a specific substr
 repeat(count) – Repeats the string count times.
 localeCompare(compareString) – Compares two strings in the current locale.
 toString() – Converts a string object to a string.
-
-\*\*/
+ */
